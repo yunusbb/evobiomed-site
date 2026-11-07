@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Google Sites mirror (kept as a secondary copy; canonical pages are on this domain)
+# https://sites.google.com/view/evobiomed/home
+
+Sitemap: https://evobiomed.org/sitemap.xml

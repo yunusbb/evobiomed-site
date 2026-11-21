@@ -79,6 +79,11 @@ section{padding-block:8px}
 .alum img{width:64px; height:64px; border-radius:8px; object-fit:cover; border:1px solid var(--line)}
 .alum h4{margin:0 0 3px; font-size:1.02rem}
 .alum p{font-size:.9rem; color:var(--muted); margin:0}
+.alum p.role{color:var(--accent); font-size:.72rem; font-weight:700; letter-spacing:.09em;
+  text-transform:uppercase; margin-bottom:6px}
+.research-fig{margin:0 0 20px; max-width:520px}
+.research-fig img{width:100%; border:1px solid var(--line); border-radius:10px; background:#fff}
+.research-fig.tb{max-width:190px}
 
 /* publications */
 .filters{display:flex; flex-wrap:wrap; gap:8px; margin:22px 0 6px}
